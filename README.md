@@ -101,7 +101,7 @@ def giro_sent_2(): #izquierda.
 
 #Inicia la secuencia que deseamos que realice
 #Para una frecuecia de 1kz se requiere un minimo
-#de ciclo de trabajo de 400Hz para poder salir de la
+#de ciclo de trabajo de 400 para poder salir de la
 #inercia
 
 for i in range(40,50):
@@ -111,4 +111,3 @@ for i in range(40,50):
     retro_m2(10*i)
     time.sleep_ms(500)
     print(i)
-
