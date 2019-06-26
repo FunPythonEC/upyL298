@@ -1,3 +1,6 @@
+#Realizada por: José Luis Laica Cornejo 
+#Para: FunPython 
+#Guayaquil - Ecuador 2019
 """
 Habilitamos el manejo de PWM en los 
 pines ENA y ENB
