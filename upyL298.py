@@ -27,7 +27,7 @@ IN2.value(0)
 IN3.value(0)
 IN4.value(0)
 ENB.value(0)
-led.value(0)
+
 
 #Seteo de frecuencia de trabajo
 freq=1000
